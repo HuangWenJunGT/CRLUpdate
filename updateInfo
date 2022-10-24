@@ -1,6 +1,6 @@
 {
     "versionName": "1.8.0",
-    "versionCode": 9,
-    "versionUrl": "https://github.com/HuangWenJunGT/CRLUpdate/raw/main/CRLRelease.apk",
-    "updateContent": "初次升级尝试"
+    "versionCode": 8,
+    "versionUrl": "https://raw.githubusercontent.com/HuangWenJunGT/CRLUpdate/main/CRLRelease.apk",
+    "updateContent": "完善升级功能"
 }

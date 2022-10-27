@@ -1,6 +1,6 @@
 {
-    "versionName": "1.8.0",
-    "versionCode": 8,
+    "versionName": "1.5.3",
+    "versionCode": 10,
     "versionUrl": "https://raw.githubusercontent.com/HuangWenJunGT/CRLUpdate/main/CRLRelease.apk",
-    "updateContent": "完善升级功能"
+    "updateContent": "Truegreen增加Yost KPI查询功能"
 }

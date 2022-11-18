@@ -1,6 +1,6 @@
 {
-    "versionName": "1.5.3",
-    "versionCode": 10,
+    "versionName": "1.5.4",
+    "versionCode": 11,
     "versionUrl": "https://raw.githubusercontent.com/HuangWenJunGT/CRLUpdate/main/CRLRelease.apk",
-    "updateContent": "Truegreen增加Yost KPI查询功能"
+    "updateContent": "Solve the problems caused by the compatibility of time serialization of low version Android"
 }

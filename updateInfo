@@ -1,6 +1,6 @@
 {
-    "versionName": "1.5.4",
-    "versionCode": 11,
+    "versionName": "1.5.5",
+    "versionCode": 12,
     "versionUrl": "https://raw.githubusercontent.com/HuangWenJunGT/CRLUpdate/main/CRLRelease.apk",
-    "updateContent": "Solve the problems caused by the compatibility of time serialization of low version Android"
+    "updateContent": "Solve the problem that pairing does not support letter input"
 }
